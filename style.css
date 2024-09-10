@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(250, 231, 231);
+
+}
+h1 {
+    text-align: center;
+    font-size: 42px;
+    color: rgb(68, 65, 86);
+}
+li{
+    color: white;
+
+}
+.first{
+    color:black
+}
+
+#cool {
+    color: green;
+}
+
+.card {
+
+}
+.card-header{
+
+}
+.card-img {
+    width: ;
+    height: ;
+    object-fit: cover;
+}
+.card-desc{
+
+}
+.blog {
+    width: ;
+    height: ;
+    background-color: ;
+    margin: 0 auto;   /*margin X auto centers object*/
+    border: 3px solid white;
+    padding: 30 px 15 px 15 px 30 px; /* top bottom left right, the space inside the box
+}
