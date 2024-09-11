@@ -26,18 +26,18 @@ li{
 
 }
 .card-img {
-    width: ;
-    height: ;
-    object-fit: cover;
+    width: 300px;
+    margin: 0 auto;
+    display: block;
 }
 .card-desc{
 
 }
 .blog {
-    width: ;
-    height: ;
-    background-color: ;
+    width: 300 px;
+    height: 600 px ;
+    background-color: peachpuff;
     margin: 0 auto;   /*margin X auto centers object*/
     border: 3px solid white;
-    padding: 30 px 15 px 15 px 30 px; /* top bottom left right, the space inside the box
+    padding: 30px 15px 10px 30px; /* top bottom left right, the space inside the box*/
 }
