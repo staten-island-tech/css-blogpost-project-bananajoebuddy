@@ -11,33 +11,24 @@ li{
     color: white;
 
 }
-.first{
-    color:black
-}
 
-#cool {
-    color: green;
-}
-
-.card {
-
-}
-.card-header{
-
-}
 .card-img {
-    width: 300px;
+    width: 90%;
     margin: 0 auto;
     display: block;
 }
 .card-desc{
+    text-align: center;
+}
 
+.card-link {
+    text-align: center;
 }
 .blog {
     width: 300 px;
     height: 600 px ;
     background-color: peachpuff;
-    margin: 0 auto;   /*margin X auto centers object*/
+    margin: 100 700;   /*margin X auto centers object*/
     border: 3px solid white;
     padding: 30px 15px 10px 30px; /* top bottom left right, the space inside the box*/
 }
